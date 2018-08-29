@@ -1,0 +1,14 @@
+{
+  "name": "rhythm-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/linfan68/rhythm-maker.git",
+  "author": "linfan68@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "make": "node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "10.9.3"
+  }
+}
